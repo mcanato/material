@@ -23,13 +23,13 @@
 
 
 # Site settings
-title: material
+title: Matteo Canato
 email: mcanato@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hello, I'm Matteo, a freelance front-end developer
-  and UI designer. Check out my projects on GitHub
+  Hello, I'm Matteo, a software architect, movies addicted
+  and travels lover. Check out my projects on GitHub
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://mcanato.github.io/material" # the base hostname & protocol for your site
+url: "http://mcanato.github.io/" # the base hostname & protocol for your site
 twitter_username: matteocanato
 github_username:  mcanato
 css: "cyan"
